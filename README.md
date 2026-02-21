@@ -1,6 +1,6 @@
-# jyc114514
+# JiangYinchen
 ## About Me:
-- 👋 Hi, I’m @jyc114514
+- 👋 Hi, I’m @Jiang-Yinchen
 - 👀 I’m interested in ...
   
   Something, like machine learning.
@@ -17,7 +17,9 @@
   
   ~~You can not reach me.~~
 
-  - By email: jiangyinchen00@gmail.com or jyc1415926@163.com.
+  - By email: <jiangyinchen00@gmail.com> or <jyc1415926@163.com>.
+ 
+  - By Luogu: (https://www.luogu.com.cn/user/1044040)[Luogu].
 
   - Or in the physical world. I'm in Hangzhou, China.
 
